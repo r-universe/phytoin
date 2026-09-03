@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "PhytoIn"]
 	path = PhytoIn
-	url = https://github.com/phytoin/phytoin
+	url = https://github.com/cran/PhytoIn
